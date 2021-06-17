@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.post {
+  background-color: white;
+  width:  200px;
+  height:  100px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px #999;
+}
